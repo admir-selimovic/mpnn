@@ -1,7 +1,11 @@
+# Message-Passing Neural Networks: Stability of Hidden States during 3D Rotations
 
-# Graph Neural Networks for 3D Model Classification
+This project is an implementation of the Message Passing Neural Networks (MPNN) for 3D model processing. The project utilizes the PyTorch Geometric library and PyTorch Lightning for efficient neural network management and training.
 
-This repository contains an implementation of Graph Neural Networks (GNNs) for classifying 3D models using the ModelNet10 dataset. The project utilizes the PyTorch Geometric library and PyTorch Lightning for efficient neural network management and training.
+## Source
+The MPNN model implemented in this project is based on the paper:
+- **Neural Message Passing for Quantum Chemistry** (2017)  
+  [Link to Paper](https://arxiv.org/pdf/1704.01212v2.pdf)
 
 ## Features
 - Utilizes Message Passing Neural Networks (MPNNs).
@@ -64,17 +68,7 @@ The project contains the following key components:
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
 ## Acknowledgments
 
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-
-```
-
-Please replace the placeholders `<repository-url>`, `<repository-name>`, and `<script-name>.py` with the actual details corresponding to your project. You can also expand on sections like "Usage" or "Structure" to provide more specific details about your project. 
-
-This README provides a good starting point and can be further enriched with sections like "Future Work", "Known Issues", or any other information that you find important.
