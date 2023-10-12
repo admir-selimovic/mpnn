@@ -1,6 +1,6 @@
-# Message-Passing Neural Networks: Stability of Hidden States under 3D Rotations
+# Message-Passing Neural Networks
 
-This project is an implementation of the Message Passing Neural Networks (MPNN) for 3D model processing. The project utilizes the PyTorch Geometric library and PyTorch Lightning for efficient neural network management and training.
+This project is an implementation of the Message Passing Neural Networks (MPNN) for 3D model classification. The project utilizes the PyTorch Geometric library and PyTorch Lightning for efficient neural network management and training.
 
 ## Source
 The MPNN model implemented in this project is based on the paper:
