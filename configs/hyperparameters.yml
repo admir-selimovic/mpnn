@@ -1,0 +1,9 @@
+n_epochs: 50
+learning_rate: 0.001
+batch_size: 64
+node_features: 1
+hidden_features: 64
+out_features: 10
+num_layers: 2
+aggr: "mean"
+pool: "add"
